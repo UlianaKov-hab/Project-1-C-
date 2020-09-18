@@ -34,7 +34,7 @@ float aver(int arr[], int SIZE)
     {
         sum += arr[i];
     }
-    aver = sum / (float)SIZE;
+    avar = sum / (float)SIZE;
     return avar;
 }
 

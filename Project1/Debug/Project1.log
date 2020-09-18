@@ -1,3 +1,2 @@
 ﻿  Source.cpp
-D:\Documents\Ш А Г\Проекты\Git\First Project1\Project1\Source.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Project1.vcxproj -> D:\Documents\Ш А Г\Проекты\Git\First Project1\Debug\Project1.exe
+  Project1.vcxproj -> D:\Documents\Ш А Г\Проекты\GIT Projrct\First Project1\Debug\Project1.exe
